@@ -1,13 +1,13 @@
 
-Arcade Game
+# Arcade Game
 
 Froggie Arcade Game for Udacity
 
-Discription
+# Discription
 
 This is a game built to test mind problem solving skills.
 
-Instructions
+# Instructions
 
 use arrow keys to handle player moves.
 try to avoid gitting hit by cars.
