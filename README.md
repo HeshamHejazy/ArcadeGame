@@ -7,6 +7,10 @@ Froggie Arcade Game for Udacity
 
 This is a game built to test mind problem solving skills.
 
+# How to start the game
+
+Simply run "index.html" and enjoy your game.
+
 # Instructions
 
 use arrow keys to handle player moves.
